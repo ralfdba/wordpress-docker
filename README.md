@@ -1,9 +1,9 @@
 # Docker Wordpress
-Ejecutar
-`docker run --name wordpress bitnami/wordpress:latest`
-Luego
-`cd FOLDER_DOCKER_COMPOSE`
-`docker-compose up -d`
+- Ejecutar
+- `docker run --name wordpress bitnami/wordpress:latest`
+- Luego
+- `cd FOLDER_DOCKER_COMPOSE`
+- `docker-compose up -d`
 
 ## Database Config 
 Maria DB.

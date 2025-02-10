@@ -29,9 +29,9 @@ services:
       - WORDPRESS_DATABASE_NAME=bitnami_wordpress
       - WORDPRESS_USERNAME=user
       - WORDPRESS_PASSWORD=bitnami
-      - WORDPRESS_EMAIL=rfalfarop@gmail.com
+      - WORDPRESS_EMAIL=your@email.com
       - WORDPRESS_FIRST_NAME=Demo
-      - WORDPRESS_LAST_NAME=VustMe
+      - WORDPRESS_LAST_NAME=GitHub
 volumes:
   mariadb_data:
     driver: local
